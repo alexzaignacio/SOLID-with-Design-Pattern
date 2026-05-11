@@ -34,3 +34,7 @@ The system is now open for extension (adding `AudioBook`, `Capstone`, etc.) but 
 ### Single Responsibility Principle (SRP)
 
 The `Student` class is only responsible for the action of borrowing, while each resource class handles its own specific data.
+
+### UML Class Diagram
+
+<img width="1217" height="424" alt="image" src="https://github.com/user-attachments/assets/f7020100-1a12-40e6-ad0f-59be1765d41a" />
